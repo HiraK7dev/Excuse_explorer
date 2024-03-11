@@ -1,0 +1,23 @@
+#search{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    height: 20%;
+    width: 60%;
+    /* background-color: aqua; */
+}
+#opt{
+    height: 50px;
+    width: 75%;
+    border-radius: 8px;
+    border: 1px solid transparent;
+    padding: 0.6em 1.2em;
+    font-size: 1em;
+    font-weight: 500;
+    font-family: inherit;
+    background-color: #1a1a1a;
+}
+#getButton{
+    height: 50px;
+    width: 20%;
+}
